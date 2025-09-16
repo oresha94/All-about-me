@@ -1,0 +1,9 @@
+.section1 {
+    border: 5px solid black;  
+    padding:20px;
+    margin: auto;
+    text-align:center; 
+    background-color: hotpink;
+    width:50%
+
+}
